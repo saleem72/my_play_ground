@@ -1,0 +1,12 @@
+{
+    "settings": "Settings",
+    "dark_mode": "Dark mode",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "main_screen":  "Main Screeen",
+    "options": "Options",
+    "sandbox": "Sandbox",
+    "network_monitor": "Network monitor",
+    "custom_botttom_bar": "Custom bottom bar"
+}
